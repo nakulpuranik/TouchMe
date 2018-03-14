@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TouchME</string>
+    <string name="btn_stop_label">Stop</string>
+    <string name="btn_start_label">Start</string>
+</resources>
